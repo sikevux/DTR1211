@@ -1,0 +1,10 @@
+* DTR1211
+
+Well this is my public repo for strange things concerning the
+Databashantering course that I'm going to take 2011/2012. It's
+mandatory for the ones taking Naturalsciences with the Math and data
+focus.
+
+
+Basically it's about learning SQL, or rather Microsoft Access 2010,
+that's why I use python(or perl(or php)) + sqlite(or MySQL)
