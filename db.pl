@@ -21,4 +21,3 @@ while($ref = $sth->fetchrow_hashref()) {
 }
 $sth->finish();
 $dbh->disconnect();
-
