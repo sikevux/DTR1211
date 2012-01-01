@@ -5,6 +5,4 @@ Databashantering course that I'm going to take 2011/2012. It's
 mandatory for the ones taking Naturalsciences with the Math and data
 focus.
 
-
-Basically it's about learning SQL, or rather Microsoft Access 2010,
-that's why I use python(or perl(or php)) + sqlite(or MySQL)
+Basically it's my final assignment, it's a very simple CMS.
